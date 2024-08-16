@@ -25,7 +25,7 @@ Before running the network sniffer, ensure you have the following installed:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/advanced-network-sniffer.git
+   git clone https://github.com/yourusername/codealpha_Networksniffer.git
    cd advanced-network-sniffer
    ```
 
@@ -44,7 +44,7 @@ Before running the network sniffer, ensure you have the following installed:
    The network sniffer needs to be run with administrator privileges because packet sniffing requires elevated permissions. Run the script using:
 
    ```bash
-   sudo python3 advanced_network_sniffer.py
+   sudo python3 networksniffer.py
    ```
 
 
