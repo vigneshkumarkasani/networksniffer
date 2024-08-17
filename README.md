@@ -26,7 +26,7 @@ Before running the network sniffer, ensure you have the following installed:
 
    ```bash
    git clone https://github.com/yourusername/codealpha_Networksniffer.git
-   cd advanced-network-sniffer
+   cd codealpha_Networksniffer
    ```
 
 2. **Install Dependencies**:
