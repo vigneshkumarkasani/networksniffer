@@ -1,7 +1,4 @@
-Sure! Here's a more detailed and polished README file suitable for a GitHub repository:
-
----
-
+___
 #  Basic Network Sniffer 
 
 This project is an advanced network sniffer built using Python and the `scapy` library. It captures, analyzes, and logs network traffic, offering insights into the flow of data within a network.
